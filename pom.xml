@@ -35,6 +35,20 @@ under the License.
 	<url>http://flink.apache.org</url>
 	<inceptionYear>2014</inceptionYear>
 
+<repositories>
+	<repository>
+		<id>aliyun</id>
+		<url>https://maven.aliyun.com/repository/public</url>
+	</repository>
+</repositories>
+
+<pluginRepositories>
+	<pluginRepository>
+		<id>aliyun</id>
+		<url>https://maven.aliyun.com/repository/public</url>
+	</pluginRepository>
+</pluginRepositories>
+
 	<licenses>
 		<license>
 			<name>The Apache Software License, Version 2.0</name>
